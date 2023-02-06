@@ -1,0 +1,3 @@
+1-Faire un fichier avec toutes les étapes pour lancer un projet NodeJS
+2-Faire un data.json avec la même chose que dans votre app  restauration
+3- Faire le fichier app.js pour pouvoir voir les données et le tout commenté

@@ -1,0 +1,21 @@
+{
+    "Entrées":[
+        {"id": 1 , "entrees": "croquettes de poisson chat", "prix": 12 },
+        {"id": 2 , "entrees": "filets de pimp ", "prix": 8 },
+        {"id": 3 , "entrees": "soufflé braisé" , "prix" : 3}
+        
+    ],"Plats" :[
+        {"id": 4 , "plat": "salade décomposée " , "prix" : 17},
+        {"id": 5 , "plat": "agneau déconfiné  " , "prix" : 23},
+        {"id": 6 , "plat": "entrecote dégraissée  " , "prix" : 27},
+        {"id": 7 , "plat": "pelardon désseché " , "prix" : 5}
+    
+    ], "Desserts" : [
+        {"id": 8 , "dessert": "copeaux de safran vanillés" , "prix" : 9},
+        {"id": 9 , "dessert": "café mouillette" , "prix" : 1}
+    
+    ], "boissons" : [
+        {"id": 10 , "boissons": "coca cola aux glacons" , "prix" : 3},
+        {"id": 11, "boissons": "smoothie champignons/radis" , "prix" : 8}
+    ]
+}

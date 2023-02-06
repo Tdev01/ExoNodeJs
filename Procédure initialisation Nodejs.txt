@@ -1,0 +1,17 @@
+Les étapes pour lancer un projet NodeJS : 
+
+Créer un nouveau répertoire pour son projet et y ouvrir un terminal.
+
+Lancer la commande npm init, ce qui permettra d'installer des packages npm pour votre projet.
+
+--------------------------------/
+
+Installation du packages et nodemon --save -dev 
+
+pour démarer le serveur en local  :  npm start
+
+ouvrir thunder client:
+
+faire un new request de serveur avec le port selectionné 
+mettre get dans la barre de recherche si on n'a mis get sur notre fichier suivie de 
+
